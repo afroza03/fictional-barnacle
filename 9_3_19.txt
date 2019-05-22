@@ -1,0 +1,11 @@
+1. What is Subquery?
+2. Write the guidelines of sub-query?
+3. Write about:
+	a. IN
+	b. ALL
+	3. Exists
+4. Difference between Intersect & Minus in SQL?
+5. Difference Between Union & Intersect?
+6. What is DML statement? Whare those keywords?
+7. 
+
